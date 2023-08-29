@@ -1,2 +1,4 @@
-# binary_trees
-Data structures - Binary Trees
+Data structures
+Binary trees
+Binary search trees(BST)
+
